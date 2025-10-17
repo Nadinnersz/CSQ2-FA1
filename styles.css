@@ -17,9 +17,18 @@
     clear: bottom;
 }
 
+body {
+    padding-top: 20px;
+    text-align: justify;
+    background-color: rgb(41, 108, 41);
+}
+
 #wrapper {
-    width: 99.97%;
-    background-color: rgb(224, 247, 224);
+    width: 85%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(216, 242, 209);
+    border-radius: 5px;
 }
 
 .footer {
