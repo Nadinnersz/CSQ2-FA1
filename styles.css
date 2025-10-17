@@ -1,0 +1,79 @@
+.header {
+    padding: 30px;
+    text-align: center;
+    background: rgb(2, 95, 2);
+    color: white;
+    font-size: 20px;
+}
+
+.nav {
+    padding: 3px;
+    text-align: left;
+    background: rgb(43, 148, 43);
+    color: white;
+    font-size: 15px;
+    float: right;
+    margin-top: 43px;
+    clear: bottom;
+}
+
+#wrapper {
+    width: 99.97%;
+    background-color: rgb(224, 247, 224);
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: rgb(2, 95, 2);
+    color: white;
+    font-size: 15px;
+}
+
+.part1 {
+    border: black 1px solid;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgb(170, 223, 157);
+}
+
+.article {
+    border: black 1px solid;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgb(170, 223, 157);
+}
+
+a:link {
+    background-color:  rgb(87, 167, 83) 1px;
+    color: rgb(255, 255, 255);
+    border: solid rgb(87, 167, 83) 1px;
+    padding: 1px;
+
+}
+
+a:visited {
+    background-color: rgb(87, 167, 83) 1px;
+    color: rgb(0, 0, 0);
+    text-decoration: wavy underline;
+    border: solid rgb(87, 167, 83) 1px;
+    padding: 1px;
+}
+
+a:hover {
+    background-color: rgb(152, 228, 133);
+    color: white;
+    border: solid rgb(87, 167, 83) 1px;
+    padding: 1px;
+}
+
+a:active {
+    background-color: rgb(101, 180, 81);
+    color: rgb(11, 255, 32);
+    border: solid rgb(87, 167, 83) 1px;
+    padding: 1px;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
